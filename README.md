@@ -34,4 +34,7 @@ Prepare a detailed approach for completing the analysis including activities –
 
 The client is happy with the analysis plan and would like us to proceed.  After building the model we need to present our results back to the client. 
 
-Visualisations such as interactive dashboards often help us highlight key findings and convey our ideas in a more succinct manner. A list of customers or algorithm won’t cut it with the client, we need to support our results with the use of visualisations. 
+Visualisations such as interactive dashboards often help us highlight key findings and convey our ideas in a more succinct manner. A list of customers or algorithm won’t cut it with the client, we need to support our results with the use of visualisations.
+
+## Certificate of Completion
+![Certificate of Completion](https://github.com/mohammad20306/KPMG_VIRTUAL_INTERNSHIP/blob/main/KPMG_Certificate_of_Completion.png)
